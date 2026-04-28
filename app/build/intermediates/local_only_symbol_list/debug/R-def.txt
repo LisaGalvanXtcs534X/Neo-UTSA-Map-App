@@ -94,8 +94,6 @@ layout activity_settings
 layout activity_sign_in
 layout partial_bottom_nav
 layout partial_header
-mipmap ic_launcher
-mipmap ic_launcher_round
 string add_class
 string app_name
 string building_hint

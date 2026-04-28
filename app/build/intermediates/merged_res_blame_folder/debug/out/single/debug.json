@@ -4,20 +4,12 @@
         "source": "com.neoutsa.mapapp-main-34:/layout/activity_home.xml"
     },
     {
-        "merged": "com.neoutsa.mapapp-merged_res-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.neoutsa.mapapp-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
-    },
-    {
         "merged": "com.neoutsa.mapapp-merged_res-32:/drawable_bg_welcome_card.xml.flat",
         "source": "com.neoutsa.mapapp-main-34:/drawable/bg_welcome_card.xml"
     },
     {
         "merged": "com.neoutsa.mapapp-merged_res-32:/drawable_bg_route_pill_active.xml.flat",
         "source": "com.neoutsa.mapapp-main-34:/drawable/bg_route_pill_active.xml"
-    },
-    {
-        "merged": "com.neoutsa.mapapp-merged_res-32:/mipmap-mdpi_ic_launcher.xml.flat",
-        "source": "com.neoutsa.mapapp-main-34:/mipmap-mdpi/ic_launcher.xml"
     },
     {
         "merged": "com.neoutsa.mapapp-merged_res-32:/drawable_ic_launcher.xml.flat",
@@ -34,10 +26,6 @@
     {
         "merged": "com.neoutsa.mapapp-merged_res-32:/drawable_bg_button.xml.flat",
         "source": "com.neoutsa.mapapp-main-34:/drawable/bg_button.xml"
-    },
-    {
-        "merged": "com.neoutsa.mapapp-merged_res-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.neoutsa.mapapp-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
         "merged": "com.neoutsa.mapapp-merged_res-32:/layout_activity_notification_permissions.xml.flat",
@@ -110,10 +98,6 @@
     {
         "merged": "com.neoutsa.mapapp-merged_res-32:/layout_activity_routes.xml.flat",
         "source": "com.neoutsa.mapapp-main-34:/layout/activity_routes.xml"
-    },
-    {
-        "merged": "com.neoutsa.mapapp-merged_res-32:/mipmap-mdpi_ic_launcher_round.xml.flat",
-        "source": "com.neoutsa.mapapp-main-34:/mipmap-mdpi/ic_launcher_round.xml"
     },
     {
         "merged": "com.neoutsa.mapapp-merged_res-32:/drawable_bg_class_pill.xml.flat",
