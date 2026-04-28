@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="utsa_navy">#0F2547</color>
+    <color name="utsa_navy_dark">#091A33</color>
+    <color name="utsa_navy_card">#1A3055</color>
+    <color name="utsa_orange">#F15A22</color>
+    <color name="utsa_orange_light">#FF8A56</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="map_bg">#EAEEF1</color>
+    <color name="map_road">#D5DCE2</color>
+    <color name="building_blue">#8AA6BC</color>
+    <color name="building_text">#0F2547</color>
+    <color name="indoor_room">#B3B8BD</color>
+    <color name="indoor_floor">#C5C8CB</color>
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#B8C4D6</color>
+    <color name="error_red">#E53935</color>
+    <color name="route_blue">#2E80F0</color>
+    <color name="route_blue_alt">#7FB3F0</color>
+    <color name="card_white">#FFFFFFFF</color>
+    <color name="divider">#22FFFFFF</color>
+</resources>

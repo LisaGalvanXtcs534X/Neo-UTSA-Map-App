@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "com.neoutsa.mapapp-merged_res-32:/layout_activity_home.xml.flat",
+        "source": "com.neoutsa.mapapp-main-34:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.neoutsa.mapapp-merged_res-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.neoutsa.mapapp-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.neoutsa.mapapp-merged_res-32:/drawable_bg_welcome_card.xml.flat",
+        "source": "com.neoutsa.mapapp-main-34:/drawable/bg_welcome_card.xml"
+    },
+    {
+        "merged": "com.neoutsa.mapapp-merged_res-32:/drawable_bg_route_pill_active.xml.flat",
+        "source": "com.neoutsa.mapapp-main-34:/drawable/bg_route_pill_active.xml"
+    },
+    {
+        "merged": "com.neoutsa.mapapp-merged_res-32:/mipmap-mdpi_ic_launcher.xml.flat",
+        "source": "com.neoutsa.mapapp-main-34:/mipmap-mdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.neoutsa.mapapp-merged_res-32:/drawable_ic_launcher.xml.flat",
+        "source": "com.neoutsa.mapapp-main-34:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "com.neoutsa.mapapp-merged_res-32:/drawable_bg_route_pill.xml.flat",
+        "source": "com.neoutsa.mapapp-main-34:/drawable/bg_route_pill.xml"
+    },
+    {
+        "merged": "com.neoutsa.mapapp-merged_res-32:/layout_activity_map.xml.flat",
+        "source": "com.neoutsa.mapapp-main-34:/layout/activity_map.xml"
+    },
+    {
+        "merged": "com.neoutsa.mapapp-merged_res-32:/drawable_bg_button.xml.flat",
+        "source": "com.neoutsa.mapapp-main-34:/drawable/bg_button.xml"
+    },
+    {
+        "merged": "com.neoutsa.mapapp-merged_res-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.neoutsa.mapapp-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.neoutsa.mapapp-merged_res-32:/layout_activity_notification_permissions.xml.flat",
+        "source": "com.neoutsa.mapapp-main-34:/layout/activity_notification_permissions.xml"
+    },
+    {
+        "merged": "com.neoutsa.mapapp-merged_res-32:/drawable_ic_visibility_off.xml.flat",
+        "source": "com.neoutsa.mapapp-main-34:/drawable/ic_visibility_off.xml"
+    },
+    {
+        "merged": "com.neoutsa.mapapp-merged_res-32:/layout_activity_indoor_map.xml.flat",
+        "source": "com.neoutsa.mapapp-main-34:/layout/activity_indoor_map.xml"
+    },
+    {
+        "merged": "com.neoutsa.mapapp-merged_res-32:/drawable_bg_search_pill.xml.flat",
+        "source": "com.neoutsa.mapapp-main-34:/drawable/bg_search_pill.xml"
+    },
+    {
+        "merged": "com.neoutsa.mapapp-merged_res-32:/drawable_bg_notification_row.xml.flat",
+        "source": "com.neoutsa.mapapp-main-34:/drawable/bg_notification_row.xml"
+    },
+    {
+        "merged": "com.neoutsa.mapapp-merged_res-32:/drawable_bg_signin_card.xml.flat",
+        "source": "com.neoutsa.mapapp-main-34:/drawable/bg_signin_card.xml"
+    },
+    {
+        "merged": "com.neoutsa.mapapp-merged_res-32:/layout_activity_settings.xml.flat",
+        "source": "com.neoutsa.mapapp-main-34:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.neoutsa.mapapp-merged_res-32:/drawable_ic_mail.xml.flat",
+        "source": "com.neoutsa.mapapp-main-34:/drawable/ic_mail.xml"
+    },
+    {
+        "merged": "com.neoutsa.mapapp-merged_res-32:/layout_partial_header.xml.flat",
+        "source": "com.neoutsa.mapapp-main-34:/layout/partial_header.xml"
+    },
+    {
+        "merged": "com.neoutsa.mapapp-merged_res-32:/layout_activity_schedule.xml.flat",
+        "source": "com.neoutsa.mapapp-main-34:/layout/activity_schedule.xml"
+    },
+    {
+        "merged": "com.neoutsa.mapapp-merged_res-32:/layout_activity_notifications.xml.flat",
+        "source": "com.neoutsa.mapapp-main-34:/layout/activity_notifications.xml"
+    },
+    {
+        "merged": "com.neoutsa.mapapp-merged_res-32:/drawable_ic_search.xml.flat",
+        "source": "com.neoutsa.mapapp-main-34:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.neoutsa.mapapp-merged_res-32:/layout_activity_class_detail.xml.flat",
+        "source": "com.neoutsa.mapapp-main-34:/layout/activity_class_detail.xml"
+    },
+    {
+        "merged": "com.neoutsa.mapapp-merged_res-32:/drawable_bg_signin_header.xml.flat",
+        "source": "com.neoutsa.mapapp-main-34:/drawable/bg_signin_header.xml"
+    },
+    {
+        "merged": "com.neoutsa.mapapp-merged_res-32:/drawable_ic_settings.xml.flat",
+        "source": "com.neoutsa.mapapp-main-34:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.neoutsa.mapapp-merged_res-32:/layout_activity_sign_in.xml.flat",
+        "source": "com.neoutsa.mapapp-main-34:/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "com.neoutsa.mapapp-merged_res-32:/layout_partial_bottom_nav.xml.flat",
+        "source": "com.neoutsa.mapapp-main-34:/layout/partial_bottom_nav.xml"
+    },
+    {
+        "merged": "com.neoutsa.mapapp-merged_res-32:/layout_activity_routes.xml.flat",
+        "source": "com.neoutsa.mapapp-main-34:/layout/activity_routes.xml"
+    },
+    {
+        "merged": "com.neoutsa.mapapp-merged_res-32:/mipmap-mdpi_ic_launcher_round.xml.flat",
+        "source": "com.neoutsa.mapapp-main-34:/mipmap-mdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.neoutsa.mapapp-merged_res-32:/drawable_bg_class_pill.xml.flat",
+        "source": "com.neoutsa.mapapp-main-34:/drawable/bg_class_pill.xml"
+    },
+    {
+        "merged": "com.neoutsa.mapapp-merged_res-32:/drawable_bg_input_field.xml.flat",
+        "source": "com.neoutsa.mapapp-main-34:/drawable/bg_input_field.xml"
+    },
+    {
+        "merged": "com.neoutsa.mapapp-merged_res-32:/drawable_ic_map.xml.flat",
+        "source": "com.neoutsa.mapapp-main-34:/drawable/ic_map.xml"
+    },
+    {
+        "merged": "com.neoutsa.mapapp-merged_res-32:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.neoutsa.mapapp-main-34:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.neoutsa.mapapp-merged_res-32:/drawable_ic_back.xml.flat",
+        "source": "com.neoutsa.mapapp-main-34:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.neoutsa.mapapp-merged_res-32:/layout_activity_select_classes.xml.flat",
+        "source": "com.neoutsa.mapapp-main-34:/layout/activity_select_classes.xml"
+    },
+    {
+        "merged": "com.neoutsa.mapapp-merged_res-32:/drawable_ic_pin.xml.flat",
+        "source": "com.neoutsa.mapapp-main-34:/drawable/ic_pin.xml"
+    }
+]

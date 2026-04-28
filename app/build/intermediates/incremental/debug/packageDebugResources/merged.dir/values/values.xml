@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="building_blue">#8AA6BC</color>
+    <color name="building_text">#0F2547</color>
+    <color name="card_white">#FFFFFFFF</color>
+    <color name="divider">#22FFFFFF</color>
+    <color name="error_red">#E53935</color>
+    <color name="indoor_floor">#C5C8CB</color>
+    <color name="indoor_room">#B3B8BD</color>
+    <color name="map_bg">#EAEEF1</color>
+    <color name="map_road">#D5DCE2</color>
+    <color name="route_blue">#2E80F0</color>
+    <color name="route_blue_alt">#7FB3F0</color>
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#B8C4D6</color>
+    <color name="utsa_navy">#0F2547</color>
+    <color name="utsa_navy_card">#1A3055</color>
+    <color name="utsa_navy_dark">#091A33</color>
+    <color name="utsa_orange">#F15A22</color>
+    <color name="utsa_orange_light">#FF8A56</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="add_class">Add Class</string>
+    <string name="app_name">Neo UTSA Map</string>
+    <string name="building_hint">Building (e.g. NPB)</string>
+    <string name="campus_hint">Campus (Main / Downtown)</string>
+    <string name="classes">CLASSES</string>
+    <string name="click_for_more">Click for more info!</string>
+    <string name="course_number_hint">Course Number (e.g. CS 3773 001)</string>
+    <string name="forgot_password">Forget Password?</string>
+    <string name="get_signed_in">Get Signed In</string>
+    <string name="invalid_login">! INVALID EMAIL OR PASSWORD</string>
+    <string name="password">Password:</string>
+    <string name="professor_hint">Professor</string>
+    <string name="room_hint">Room # (e.g. 1.220)</string>
+    <string name="save">Save</string>
+    <string name="search_location">Search location...</string>
+    <string name="settings">SETTINGS:</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="time_hint">Time (e.g. MW 10:00-11:15)</string>
+    <string name="university_email">University Email:</string>
+    <string name="utsa">UTSA</string>
+    <string name="welcome">WELCOME TO THE\nUTSA MAP APP!</string>
+    <style name="DetailRow">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingTop">6dp</item>
+        <item name="android:paddingBottom">6dp</item>
+    </style>
+    <style name="Theme.NeoUtsaMap" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/utsa_navy</item>
+        <item name="colorPrimaryDark">@color/utsa_navy_dark</item>
+        <item name="colorAccent">@color/utsa_orange</item>
+        <item name="android:statusBarColor">@color/utsa_navy_dark</item>
+        <item name="android:windowBackground">@color/utsa_navy</item>
+    </style>
+</resources>

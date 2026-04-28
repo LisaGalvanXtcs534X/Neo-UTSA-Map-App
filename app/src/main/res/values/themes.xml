@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.NeoUtsaMap" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/utsa_navy</item>
+        <item name="colorPrimaryDark">@color/utsa_navy_dark</item>
+        <item name="colorAccent">@color/utsa_orange</item>
+        <item name="android:statusBarColor">@color/utsa_navy_dark</item>
+        <item name="android:windowBackground">@color/utsa_navy</item>
+    </style>
+</resources>

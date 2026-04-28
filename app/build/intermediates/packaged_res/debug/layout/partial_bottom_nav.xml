@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="56dp"
+    android:background="@color/utsa_navy"
+    android:gravity="center"
+    android:orientation="horizontal">
+
+    <ImageButton
+        android:id="@+id/nav_back"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="?selectableItemBackgroundBorderless"
+        android:contentDescription="Back"
+        android:src="@drawable/ic_back"
+        android:visibility="gone"/>
+
+    <ImageButton
+        android:id="@+id/nav_map"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="?selectableItemBackgroundBorderless"
+        android:contentDescription="Map"
+        android:src="@drawable/ic_map"/>
+
+    <ImageButton
+        android:id="@+id/nav_pin"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="?selectableItemBackgroundBorderless"
+        android:contentDescription="Routes"
+        android:src="@drawable/ic_pin"/>
+
+    <ImageButton
+        android:id="@+id/nav_search"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="?selectableItemBackgroundBorderless"
+        android:contentDescription="Schedule"
+        android:src="@drawable/ic_search"/>
+
+    <ImageButton
+        android:id="@+id/nav_mail"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="?selectableItemBackgroundBorderless"
+        android:contentDescription="Notifications"
+        android:src="@drawable/ic_mail"/>
+</LinearLayout>

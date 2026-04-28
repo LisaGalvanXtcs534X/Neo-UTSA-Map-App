@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Neo UTSA Map</string>
+    <string name="utsa">UTSA</string>
+    <string name="welcome">WELCOME TO THE\nUTSA MAP APP!</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="university_email">University Email:</string>
+    <string name="password">Password:</string>
+    <string name="forgot_password">Forget Password?</string>
+    <string name="get_signed_in">Get Signed In</string>
+    <string name="invalid_login">! INVALID EMAIL OR PASSWORD</string>
+    <string name="settings">SETTINGS:</string>
+    <string name="classes">CLASSES</string>
+    <string name="click_for_more">Click for more info!</string>
+    <string name="search_location">Search location...</string>
+    <string name="add_class">Add Class</string>
+    <string name="save">Save</string>
+    <string name="course_number_hint">Course Number (e.g. CS 3773 001)</string>
+    <string name="building_hint">Building (e.g. NPB)</string>
+    <string name="room_hint">Room # (e.g. 1.220)</string>
+    <string name="time_hint">Time (e.g. MW 10:00-11:15)</string>
+    <string name="professor_hint">Professor</string>
+    <string name="campus_hint">Campus (Main / Downtown)</string>
+</resources>
